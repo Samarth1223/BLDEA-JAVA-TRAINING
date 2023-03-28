@@ -1,6 +1,7 @@
+package TrainingCodes;
 //Program to count number of words in a sentence
 
-package TrainingCodes;
+
 import java.util.Scanner;
 import java.util.Scanner;
 public class Stringcode1 {
